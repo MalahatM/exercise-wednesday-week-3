@@ -1,5 +1,5 @@
 class CurrencyConverter
-{
+{//method to
     public double ConvertCurrency(double sekAmount, string currency)
     {
       switch (currency)
